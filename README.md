@@ -12,10 +12,6 @@
 ### 🚀 About Me
 - 🌱 I’m currently learning **Java**.
 - 💻 Passionate about building and exploring cool projects.
-- 📫 How to reach me: 
-  [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" width="15" height="15" style="vertical-align: middle; filter: brightness(0) invert(1);" alt="IG"> @zufar6939](https://www.instagram.com/zufar6939/) &nbsp;•&nbsp; 
-  [<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&color=0A66C2" height="16" style="vertical-align: middle;" alt="LinkedIn"> Zufar Muzhaffar](https://www.linkedin.com/in/zufar-muzhaffar-a41b2b365/) &nbsp;•&nbsp; 
-  [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/discord.svg" width="15" height="15" style="vertical-align: middle; filter: brightness(0) invert(1);" alt="Discord"> Bruh](https://discord.com/channels/@me)
 
 <br>
 
@@ -56,8 +52,8 @@
 </picture>
 
 ###
-
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">📊 GitHub Stats & Streak</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Haaciih&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Haaciih&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haaciih&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
