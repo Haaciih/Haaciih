@@ -52,8 +52,6 @@
 </picture>
 
 ###
-<h3 align="center">📊 GitHub Stats & Streak</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Haaciih&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haaciih&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=4000&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Code.☕+Sleep.💤+Repeat.🔄;Transforming+Ideas+Into+Code+Every+Day!;Always+learning,+always+building." alt="Typing SVG" />
 </p>
