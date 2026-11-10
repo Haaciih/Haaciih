@@ -10,8 +10,8 @@
 ---
 
 ### 🚀 About Me
-- 🌱 I’m currently learning **Java**.
-- 💻 Passionate about building and exploring cool projects.
+- 🌱 I am currently learning several programming languages, such as **Java** and **PHP**, and am delving into the field of **cybersecurity**.
+- 💻 Passionate about building and exploring engaging projects, including various cyber-related initiatives such as **SAST** & **DAST**.
 
 <br>
 
@@ -44,11 +44,11 @@
 
 ###
 
-<h3 align="center">🐍 Contribution Snake Game</h3>
+<h3 align="center">🕹️ Pacman Contribution Game</h3>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Haaciih/Haaciih/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Haaciih/Haaciih/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Haaciih/Haaciih/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Haaciih/Haaciih/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Haaciih/Haaciih/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Haaciih/Haaciih/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
 ###
