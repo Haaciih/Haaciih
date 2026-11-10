@@ -1,16 +1,63 @@
-## Hi there 👋
+<h1 align="center">Welcome To My Git 👋, I'm Zufar!</h1>
+<h3 align="center">Informatics Engineering Student | Tech Enthusiast</h3>
 
-<!--
-**Haaciih/Haaciih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGZpcXVpMXN1dG56OHRkbW5lMDdzbzRtOTN5czVlZTRnczE3aTV2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f9Gi1ER3c0Rfv4pVhI/giphy.gif" width="750px" alt="Gojo Satoru GIF">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+- 🌱 I’m currently learning **Java**.
+- 💻 Passionate about building and exploring cool projects.
+- 📫 How to reach me: 
+  [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" width="15" height="15" style="vertical-align: middle; filter: brightness(0) invert(1);" alt="IG"> @zufar6939](https://www.instagram.com/zufar6939/) &nbsp;•&nbsp; 
+  [<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&color=0A66C2" height="16" style="vertical-align: middle;" alt="LinkedIn"> Zufar Muzhaffar](https://www.linkedin.com/in/zufar-muzhaffar-a41b2b365/) &nbsp;•&nbsp; 
+  [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/discord.svg" width="15" height="15" style="vertical-align: middle; filter: brightness(0) invert(1);" alt="Discord"> Bruh](https://discord.com/channels/@me)
+
+<br>
+
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="60" alt="intellij logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="60" alt="laravel logo" />
+</div>
+
+###
+
+<div data-importer="socials" align="center">
+  <a href="https://www.linkedin.com/in/zufar-muzhaffar-a41b2b365/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /></a>
+  <a href="https://www.instagram.com/zufar6939/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" /></a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo" />
+</div>
+
+###
+
+<h3 align="center">🐍 Contribution Snake Game</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Haaciih/Haaciih/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Haaciih/Haaciih/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Haaciih/Haaciih/output/github-contribution-grid-snake.svg">
+</picture>
+
+###
+
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Haaciih&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+</p>
