@@ -4,7 +4,7 @@
 <br>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2VjYXhycTJxMmowdHJhYXpicWN0dnEzcjdieW5pdnVoc3pmOG9kayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/r77sc23Jo1AhlB0uQh/giphy.gif" width="750px" alt="Gojo Satoru GIF">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2VjYXhycTJxMmowdHJhYXpicWN0dnEzcjdieW5pdnVoc3pmOG9kayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f9Gi1ER3c0Rfv4pVhI/giphy.gif" width="750px" alt="Gojo Satoru GIF">
 </p>
 
 ---
